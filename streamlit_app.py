@@ -232,6 +232,7 @@ else:
         # Display results
         if status == "Optimal":
             st.success("Optimization successful!")
+            st.balloons()
             st.subheader(f"Total Cost: {total_cost} USD")
             for supplier in results:
                 st.write(f"Source {results[supplier]:.2f} units from {supplier}")

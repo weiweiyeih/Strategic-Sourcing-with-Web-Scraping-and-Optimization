@@ -34,7 +34,7 @@ This project showcases two primary use cases that are highly relevant to procure
 
 ## Demo
 
-[Leveraging Technology for Strategic Decision-Making in Procurement and Supply Chain Management](https://strategic-decision-making-in-sourcing.streamlit.app/)
+[Leveraging Technology for Strategic Decision-Making in Procurement and Supply Chain Management](https://strategic-sourcing-with-web-scraping-and-optimization.streamlit.app/)
 
 ## Disclaimer
 
